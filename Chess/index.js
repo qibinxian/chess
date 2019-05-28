@@ -1,1 +1,0 @@
-window.screenOrientation="sensor_portrait",loadLib("libs/laya.core.js"),loadLib("libs/laya.webgl.js"),loadLib("libs/laya.ui.js"),loadLib("js/unit.js"),loadLib("js/Game.js"),loadLib("js/play.js"),loadLib("js/AI.js");
